@@ -16,3 +16,7 @@ This sandbox is leveraged in different NX-OS Learning Labs.  Within the [learnin
 
 Looking for details on YANG Data Models and using NETCONF, RESTCONF, or gRPC with NX-OS?  Checkout samples here: [yang/](yang/)
 
+## NX-API Examples
+
+Interested in using NX-API?  Checkout samples here: [nx-api/](nx-api/)
+
