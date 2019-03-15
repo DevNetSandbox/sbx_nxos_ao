@@ -29,7 +29,7 @@ def main():
                 <lb-items></lb-items>
             </intf-items>
         </System>
-    </config>"""
+    </filter>"""
 
     ipv4_filter_template = """
     <filter>
@@ -49,7 +49,7 @@ def main():
                 </inst-items>
             </ipv4-items>
         </System>
-    </config>"""
+    </filter>"""
 
 
 
