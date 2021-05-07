@@ -45,7 +45,7 @@ def main():
         <lb-items>
             <LbRtdIf-list>
                 <id>{0}</id>
-                <adminSt>up</up>
+                <adminSt>up</adminSt>
                 <descr>Full intf config via NETCONF</descr>
             </LbRtdIf-list>
         </lb-items>
